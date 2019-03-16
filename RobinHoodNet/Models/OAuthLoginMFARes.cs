@@ -5,4 +5,4 @@
         public bool mfa_required { get; set; }
         public MFATypes mfa_type { get; set; }
     }
-} 
+}
